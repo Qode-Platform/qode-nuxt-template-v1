@@ -3,7 +3,6 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "check:base-path": "node scripts/check-base-path.mjs",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
